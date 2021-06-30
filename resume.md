@@ -8,47 +8,39 @@ subtitle: An awesome person
 <br>
 
 ### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+
+`Java developer with 5+ years of experience in designing and developing user interfaces, testing and debugging. `
 
 ### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**OKOK** - Distributed System - Place <span style="float: right; ">2021</span>  
+Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Hello** - TODO - Place <span style="float: right; ">2020</span>  
+Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.
+
+**Nice To Meet You** - TODO - Place <span style="float: right; ">2019</span>  
+Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.
 
 ### EDUCATION
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
- 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+**University of San Francisco (USFCA)** <span style="float: right; ">Aug. 2019 - May. 2021</span> <br/>
+Master of Science in Computer Science <span style="float: right; ">GPA: 3.93</span>
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+**National Yunlin University of Science and Technology, Taiwan** <span style="float: right; "> Sep. 2013 - Jun 2017.</span> <br/>
+Bachelor of Computer Science <span style="float: right; ">GPA: 3.1</span>
 
 ### EXPERIENCE
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Software Engineer - **Innova Solutions** <span style="float: right; ">May. 2021 - present</span>
 
- 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+_Developing somthing....._
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Python, AWS SQS, SNS, Lambda, Terraform
 
+Java Programmer- **玉山銀行(E.SUN Bank)** <span style="float: right; ">Sep. 2018 - Jun. 2019</span>  
+_Designed and implemented API for banking process applications, including money transfer, inneraccounting, e-colletion (online bill payment)._
+Java, Oracle PL/SQL
 
 ### RECOGNITION & INTERESTS
 
