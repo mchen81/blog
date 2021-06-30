@@ -13,14 +13,37 @@ subtitle: An awesome person
 
 ### PROJECTS
 
-**OKOK** - Distributed System - Place <span style="float: right; ">2021</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.
+**Buy-Tracker** - A web app tracking what you've payed. <span style="float: right; ">2019</span>  
+When I was first in the US, I tried to write down my spending in some mobile app. It's painful bucause typing lots of items and prices from reciptes didn't make sense. I realized I could write an app to help me achieve that - ocr. Taking a phto then tracking is done - how beautiful it is. Therefore, I built this app and got famaliar with Spring Boot.
 
-**Hello** - TODO - Place <span style="float: right; ">2020</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.
+_But it didn't help a lot since I gotta take a really clear image. Even worse, it a web page but not a mobile app._
 
-**Nice To Meet You** - TODO - Place <span style="float: right; ">2019</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.
+**Waterflow** - A easy to use microservices deploy web page. <span style="float: right; ">2021</span>
+
+Worked in a team of 9 to create an easy-to-use micro-services deployment system
+
+- Architecture designers are able to design micro-services based on BPMN 2.0 model, and assign each tasks to developers.
+- Developers make AWS ECR images and provide the sources to the Waterflow, the system willvalidate these images.
+- When the all micro-services are ready, the designers can decide to enable the workflow, and the Waterflow will deploy all services on Zeebe.
+  Bpmn.io, Micronaut, Groovy,
+
+**Pocket Realtor** - Better Airbxb? <span style="float: right; ">2020</span>
+
+- Pocket Realtor provides a web service for homeowners, real estate agents, and people seeking to
+  make the process of renting housing with friends more seamless.
+- Homeowners will have a pro le page and post the house(s) which they would like to sell or rent.
+- Tenants will discover useful information about available properties to rent in their area, such as square footage, rent price, nearby amenities, and more
+- Tenants are able to create a group with their friends so that they can share information about
+  their rental choices with one another and find a place that is the best fit.
+
+NodeJS, Express, Sequelize, JWT, PostgreSQL, AWS EC2 & RDS
+
+**Security system of open field with cloud computing, drone and robot** - Bachelor's Project <span style="float: right; ">2016</span>
+
+Worked in a team of three to create a security system for large open spaces, such as parks using
+Raspberry Pi, drones and Hadoop.
+
+_Since this is my first time to complete such big project, the code was really disgusting..._
 
 ### EDUCATION
 
