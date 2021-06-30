@@ -1,7 +1,7 @@
 # Site settings
 title: Jerry
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  My playground to diplay who I am and show off what I've done.
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "https://mchen81.github.io" # the base hostname & protocol for your site

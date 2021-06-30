@@ -7,11 +7,31 @@ subtitle: An awesome person
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### SKILLS
+## SKILLS
 
 `Java developer with 5+ years of experience in designing and developing user interfaces, testing and debugging. `
 
-### PROJECTS
+## EDUCATION
+
+**University of San Francisco (USFCA)** <span style="float: right; ">Aug. 2019 - May. 2021</span> <br/>
+Master of Science in Computer Science <span style="float: right; ">GPA: 3.93</span>
+
+**National Yunlin University of Science and Technology, Taiwan** <span style="float: right; "> Sep. 2013 - Jun 2017.</span> <br/>
+Bachelor of Computer Science <span style="float: right; ">GPA: 3.1</span>
+
+## EXPERIENCE
+
+Software Engineer - **Innova Solutions** <span style="float: right; ">May. 2021 - present</span>
+
+_Developing somthing....._
+
+Python, AWS SQS, SNS, Lambda, Terraform
+
+Java Programmer- **玉山銀行(E.SUN Bank)** <span style="float: right; ">Sep. 2018 - Jun. 2019</span>  
+_Designed and implemented API for banking process applications, including money transfer, inneraccounting, e-colletion (online bill payment)._
+Java, Oracle PL/SQL
+
+## PROJECTS
 
 **Buy-Tracker** - A web app tracking what you've payed. <span style="float: right; ">2019</span>  
 When I was first in the US, I tried to write down my spending in some mobile app. It's painful bucause typing lots of items and prices from reciptes didn't make sense. I realized I could write an app to help me achieve that - ocr. Taking a phto then tracking is done - how beautiful it is. Therefore, I built this app and got famaliar with Spring Boot.
@@ -44,32 +64,3 @@ Worked in a team of three to create a security system for large open spaces, suc
 Raspberry Pi, drones and Hadoop.
 
 _Since this is my first time to complete such big project, the code was really disgusting..._
-
-### EDUCATION
-
-**University of San Francisco (USFCA)** <span style="float: right; ">Aug. 2019 - May. 2021</span> <br/>
-Master of Science in Computer Science <span style="float: right; ">GPA: 3.93</span>
-
-**National Yunlin University of Science and Technology, Taiwan** <span style="float: right; "> Sep. 2013 - Jun 2017.</span> <br/>
-Bachelor of Computer Science <span style="float: right; ">GPA: 3.1</span>
-
-### EXPERIENCE
-
-Software Engineer - **Innova Solutions** <span style="float: right; ">May. 2021 - present</span>
-
-_Developing somthing....._
-
-Python, AWS SQS, SNS, Lambda, Terraform
-
-Java Programmer- **玉山銀行(E.SUN Bank)** <span style="float: right; ">Sep. 2018 - Jun. 2019</span>  
-_Designed and implemented API for banking process applications, including money transfer, inneraccounting, e-colletion (online bill payment)._
-Java, Oracle PL/SQL
-
-### RECOGNITION & INTERESTS
-
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
