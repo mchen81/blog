@@ -13,10 +13,10 @@ subtitle: An awesome person
 
 ## EDUCATION
 
-**University of San Francisco (USFCA)** <span style="float: right; ">Aug. 2019 - May. 2021</span> <br/>
+**[University of San Francisco (USFCA)](https://www.usfca.edu)** <span style="float: right; ">Aug. 2019 - May. 2021</span> <br/>
 Master of Science in Computer Science <span style="float: right; ">GPA: 3.93</span>
 
-**National Yunlin University of Science and Technology, Taiwan** <span style="float: right; "> Sep. 2013 - Jun 2017.</span> <br/>
+**[National Yunlin University of Science and Technology, Taiwan](https://www.yuntech.edu.tw)** <span style="float: right; "> Sep. 2013 - Jun 2017.</span> <br/>
 Bachelor of Computer Science <span style="float: right; ">GPA: 3.1</span>
 
 ## EXPERIENCE

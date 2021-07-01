@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello
-subtitle: My name is Jerry Chem
+subtitle: My name is Jerry Chen
 sitemap:
   priority: 0.9
 ---
@@ -10,7 +10,7 @@ sitemap:
 
 <div id="describe-text">
 	<p></p>
-	<p>I am is Chen, Meng-Ze, but you can simply call me Jerry :))</p>
+	<p>I am Chen, Meng-Ze, but you can simply call me Jerry :))</p>
 	<p>I am a software engineer.</p>
 	<p>You can find more about me in the resume page, and take a look my post in my bolg. I'd like to share my experience with you.</p>
 
