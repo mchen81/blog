@@ -12,7 +12,7 @@ In my first graduate year, a professor assigned us to write a number converter i
 
 ## Input
 
-The input can be in binary, signed number, unsigned number, or hex as long as it is not out range of int32. You can input a number between from 2,147,483,647 to 4,294,967,295, it is considered as an unsigned int32.
+The input can be in binary, signed number, unsigned number, or hex as long as it is not out range of int32. You can input a number from 2,147,483,647 to 4,294,967,295, it is considered as an unsigned int32.
 
 ```
 0x123  // a hex number
