@@ -3,12 +3,12 @@ layout: page
 title: "Number Convertor"
 subtitle: "Golang"
 date: 2021-07-05 21:00:00 +0000
-categories: Side Project
+categories: Go
 author: "Jerry"
 meta: "Springfield"
 ---
 
-In my first graduate year, a professor assigned us to write a number converter in C([here](https://github.com/mchen81/2020S-system-foundation/blob/main/number-converter/nt.c)). I liked the project, but I did not like C, so I decided to write the program in GO.
+In my first graduate year, a professor assigned us to write a number converter in C([here](https://github.com/mchen81/2020S-system-foundation/blob/main/number-converter/nt.c)). I liked the project, but I did not like C, so I decided to make this program again in GO.
 
 ## Input
 
@@ -30,7 +30,7 @@ The output will print out 5 differernt types of number as following:
 (unsigned) 4294967293
 (binary) 0b11111111111111111111111111111101
 (binary) 1111 1111 1111 1111 1111 1111 1111 1101
-(unsigned) 0xfffffffd
+(hex) 0xfffffffd
 ```
 
 ## Error Handling

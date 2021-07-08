@@ -7,29 +7,46 @@ subtitle: (Not Completed Yet)
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-## SKILLS
+## SUMMARY
 
-`Java developer with 2+ years of experience in designing and developing user interfaces, testing and debugging. `
+`2+ years experience working closely with software engineering, especially Restful API design. `
+
+- Experienced programmer with different languages: Java, Python, Groovy, Golang, and Javascript.
+- Experienced on various frameworks: Spring MVC, Hibernate, React, and NodeJS.
+- Experienced on distributed computing protocols like REST, Web Services, Protobuff, and gRPC.
+- Experienced working SQL and NoSQL.
+- Designed and implemented cloud base software using ElasticSearch, Spring Cloud, Docker, and Consul
 
 ## EDUCATION
 
 **University of San Francisco (USFCA)** <span style="float: right; ">Aug. 2019 - May. 2021</span> <br/>
-Master of Science in Computer Science <span style="float: right; ">GPA: 3.93/4</span>
+Master of Science in Computer Science <span style="float: right; ">GPA: 3.97/4</span>
+
+- Concentration: Software Engineering
+- Relevant Cources: Algorithms, Principles SW Development, Systems Foundations, Data Processing in Cloud, Machine Learning, Big Data, Programming Language Paradigms, Software Development Life Cycle.
 
 **National Yunlin University of Science and Technology, Taiwan** <span style="float: right; "> Sep. 2013 - Jun 2017.</span> <br/>
 Bachelor of Computer Science <span style="float: right; ">GPA: 3.1/4</span>
 
 ## EXPERIENCE
 
-Software Engineer - **Innova Solutions** <span style="float: right; ">May. 2021 - present</span>
+**Software Engineer** at Innova Solutions <span style="float: right; ">May. 2021 - present</span>
 
-_Developing somthing....._
+_Working with the Change Heathcare to build pratical heath insurance service._
 
-Python, AWS SQS, SNS, Lambda, Terraform
+- Using python and AWS SNS, SQS, Lambda, Step Functions
+- Using Spring boot ...
+- To be continued...
 
-Java Programmer- **玉山銀行(E.SUN Bank)** <span style="float: right; ">Jan. 2019 - Jun. 2019</span>  
-_Designed and implemented API for banking process applications, including money transfer, inneraccounting, e-colletion (online bill payment)._
-Java, Oracle PL/SQL
+**Software Developer** at 玉山銀行(E.SUN Bank) <span style="float: right; ">Jan. 2019 - Jun. 2019</span>
+
+_Worked alongside a big team(~50 people ) to implement a huge, microservice-based backend system of banking applications._
+
+- Involved system design on the E-Collection(online bill payment) application.
+- Used Spring Boot to handle requests from differernt protocols, and implemtend buisness logics on the backing process included money transfer, innercoounting and E-Collection.
+- Implemented stored procedures on Oracle PL/SQL to process data-side logics.
+
+_Used Knowledge of Java, Spring Boot, Oracle Stored Procedure._
 
 ## PROJECTS
 

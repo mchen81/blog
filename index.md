@@ -10,8 +10,12 @@ sitemap:
 
 <div id="describe-text">
 	<p></p>
-	<p>My name is Chen, Meng-Ze, but you can simply call me Jerry :))</p>
-	<p>You can find more about me in the resume page, and take a look my post in my bolg. I'd like to share my experience with you.</p>
-	<p>I am still working on this website, so you might see some strange words. </p>
+	<p>My name is Chen, Meng-Ze, you can also call me Jerry. I am a software engineer currently working at Taipei, Taiwan. </p>
+	<p>
+	Coding has been a big part of my life, it is merely a work for me. Designing and writing a program is really like playing a game. I enjoy the procedure of achieving a program, even it's simple. 
+	</p>
+	I made this website because I'd like to demostrate my enthusiasm in programming, I want to share you who I am and what I've done. </p>
+
+    <p> BTW, I am still working on this website, so you might see some strange words. </p>
 
 </div>
