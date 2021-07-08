@@ -4,7 +4,7 @@ title: "Number Convertor"
 subtitle: "Golang"
 date: 2021-07-05 21:00:00 +0000
 categories: Go
-author: "Jerry"
+author: misc
 meta: "Springfield"
 ---
 
