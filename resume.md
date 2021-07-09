@@ -40,7 +40,7 @@ _Working with the Change Heathcare to build pratical heath insurance service._
 
 **Software Developer** at 玉山銀行(E.SUN Bank) <span style="float: right; ">Jan. 2019 - Jun. 2019</span>
 
-_Worked alongside a big team(~50 people ) to implement a huge, microservice-based backend system of banking applications._
+_Worked alongside a big team(~50 people) to implement a huge, microservice-based backend system of banking applications._
 
 - Involved system design on the E-Collection(online bill payment) application.
 - Used Spring Boot to handle requests from differernt protocols, and implemtend buisness logics on the backing process included money transfer, innercoounting and E-Collection.
@@ -58,8 +58,6 @@ Worked in a team of 9 to create an easy-to-use micro-services deployment system
 - Developers make AWS ECR images and provide the sources to the Waterflow, the system will validate these images.
 - When the all micro-services are ready, the designers can decide to enable the workflow, and the Waterflow will deploy all services on Zeebe.
   Bpmn.io, Micronaut, Groovy, React, Elasticsearch, AWS ECR & ECS
-
-_I leanred React from this project, so funny_
 
 **Pocket Realtor** - Better Airbxb? <span style="float: right; ">2020</span>
 
