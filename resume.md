@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-subtitle: (Not Completed Yet)
+subtitle: You can find out what I have done here :)
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
@@ -9,13 +9,14 @@ subtitle: (Not Completed Yet)
 
 ## SUMMARY
 
-`2+ years experience working closely with software engineering, especially Restful API design. `
+`4+ years experience working closely with software engineering, especially Restful API design. `
 
-- Experienced programmer with different languages: Java, Python, Groovy, Golang, and Javascript.
-- Experienced on various frameworks: Spring MVC, Hibernate, React, and NodeJS.
-- Experienced on distributed computing protocols like REST, Web Services, Protobuff, and gRPC.
-- Experienced working SQL and NoSQL.
-- Designed and implemented cloud base software using ElasticSearch, Spring Cloud, Docker, and Consul
+- Experienced programming on different languages: Java, Python, Groovy, Golang, and Javascript.
+- Strong knowledge of design patterns, concurrency, multithreading, lambda in Java
+- Experienced on various frameworks: Spring Boot, Netty, Hibernate, React, and NodeJS.
+- Experienced on distributed computing protocols like REST, WebSocket, Protobuff, and gRPC.
+- Experienced working SQL and NoSQL(Redis & DynamodDb).
+- Experienced on AWS cloud infrastructures like Lambda, ECS, EC2, dynamodb and Elasticache
 
 ## EDUCATION
 
@@ -34,9 +35,10 @@ Bachelor of Computer Science <span style="float: right; ">GPA: 3.1/4</span>
 
 _Working with the Change Heathcare to build pratical heath insurance service._
 
-- Using python and AWS SNS, SQS, Lambda, Step Functions
-- Using Spring boot ...
-- To be continued...
+- Developed a batch process handling a large amount of data using Spring Batch and Java Concurrency Strategy
+- Developed serverless solutions majorly using AWS lambda, SNS, SQS
+
+_Used Knowledge of Java & Python, Spring Boot, Spring Batch, AWS state machine, lambda, ECS, EC2, load balancer, Dynamodb, etc_
 
 **Software Developer** at 玉山銀行(E.SUN Bank) <span style="float: right; ">Jan. 2019 - Jun. 2019</span>
 
@@ -50,7 +52,15 @@ _Used Knowledge of Java, Spring Boot, Oracle Stored Procedure._
 
 ## PROJECTS
 
-**Waterflow** - A easy to use microservices deploy web page. <span style="float: right; ">2021</span>
+**Patient Roster**. <span style="float: right; ">2021, Innova Soluctions</span>
+
+- Receive a request data which has up to 1 million rows.
+- Parse and validate every row.
+- Request each row to FHIR api
+- Retrieve patient document once FHIR published a pipeline end event.
+  Spring Boot, Spring batch, ECS, Lambda, S3, SNS, SQS, DynamodDb
+
+**Waterflow** - A easy to use microservices deploy web page. <span style="float: right; ">2021, USFCA</span>
 
 Worked in a team of 9 to create an easy-to-use micro-services deployment system
 
@@ -59,23 +69,34 @@ Worked in a team of 9 to create an easy-to-use micro-services deployment system
 - When the all micro-services are ready, the designers can decide to enable the workflow, and the Waterflow will deploy all services on Zeebe.
   Bpmn.io, Micronaut, Groovy, React, Elasticsearch, AWS ECR & ECS
 
-**Pocket Realtor** - Better Airbxb? <span style="float: right; ">2020</span>
+**Pocket Realtor** - Better Airbxb? <span style="float: right; ">2020, Master's project of USFCA</span>
 
+- https://github.com/mchen81/pocket-realtor-backend
 - Pocket Realtor provides a web service for homeowners, real estate agents, and people seeking to
   make the process of renting housing with friends more seamless.
-- Homeowners will have a pro le page and post the house(s) which they would like to sell or rent.
+- Homeowners will have a page to post the house(s) which they would like to sell or rent.
 - Tenants will discover useful information about available properties to rent in their area, such as square footage, rent price, nearby amenities, and more
 - Tenants are able to create a group with their friends so that they can share information about
   their rental choices with one another and find a place that is the best fit.
 
 NodeJS, Express, Sequelize, JWT, PostgreSQL, AWS EC2 & RDS
 
+**Distributed Storage System** - <span style="float: right; ">2020, BigData course from USFCA</span>
+
+- https://github.com/mchen81/DFS-java-netty
+- Like [Hadoop Distributed Storage System](https://hadoop.apache.org/), it provides a storage place to keep avalibility for data.
+- Make every chunk of data has 3 replicas distributed around cluster
+- Make a backup if detecting a chunk is broken
+-
+
+Java And Netty
+
 **Buy-Tracker** - A web app tracking what you've payed. <span style="float: right; ">2019</span>  
 When I was first in the US, I tried to write down my spending in some mobile app. It's painful bucause typing lots of items and prices from reciptes didn't make sense. I realized I could write an app to help me achieve that - ocr. Taking a phto then tracking is done - how beautiful it is. Therefore, I built this app and got famaliar with Spring Boot.
 
 _But it didn't help a lot since I gotta take a really clear image. Even worse, it a web page but not a mobile app._
 
-**Security system of open field with cloud computing, drone and robot** - Bachelor's Project <span style="float: right; ">2016</span>
+**Security system of open field with cloud computing, drone and robot** - Bachelor's Project <span style="float: right; ">2016, Bachelor's project of YUNTECH</span>
 
 Worked in a team of three to create a security system for large open spaces, such as parks using
 Raspberry Pi, drones and Hadoop.
