@@ -87,7 +87,6 @@ NodeJS, Express, Sequelize, JWT, PostgreSQL, AWS EC2 & RDS
 - Like [Hadoop Distributed Storage System](https://hadoop.apache.org/), it provides a storage place to keep avalibility for data.
 - Make every chunk of data has 3 replicas distributed around cluster
 - Make a backup if detecting a chunk is broken
--
 
 Java And Netty
 
