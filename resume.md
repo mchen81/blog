@@ -52,7 +52,7 @@ _Used Knowledge of Java, Spring Boot, Oracle Stored Procedure._
 
 ## PROJECTS
 
-**Patient Roster**. <span style="float: right; ">2021, Innova Soluctions</span>
+**Patient Roster**. <span style="float: right; ">2021, Innova Solutions</span>
 
 - Receive a request data which has up to 1 million rows.
 - Parse and validate every row.
