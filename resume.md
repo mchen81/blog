@@ -81,7 +81,7 @@ Worked in a team of 9 to create an easy-to-use micro-services deployment system
 
 NodeJS, Express, Sequelize, JWT, PostgreSQL, AWS EC2 & RDS
 
-**Distributed Storage System** - <span style="float: right; ">2020, BigData course from USFCA</span>
+**Distributed Storage System** <span style="float: right; ">2020, BigData course from USFCA</span>
 
 - https://github.com/mchen81/DFS-java-netty
 - Like [Hadoop Distributed Storage System](https://hadoop.apache.org/), it provides a storage place to keep avalibility for data.
