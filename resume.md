@@ -9,7 +9,7 @@ subtitle: You can find out what I have done here :)
 
 ## SUMMARY
 
-`4+ years experience working closely with software engineering, especially Restful API design. `
+`3+ years experience working closely with software engineering, especially Restful API design. `
 
 - Experienced programming on different languages: Java, Python, Groovy, Golang, and Javascript.
 - Strong knowledge of design patterns, concurrency, multithreading, lambda in Java
@@ -52,11 +52,11 @@ _Used Knowledge of Java, Spring Boot, Oracle Stored Procedure._
 
 ## PROJECTS
 
-**Patient Roster**. <span style="float: right; ">2021, Innova Solutions</span>
+**Patient Roster** - A batch service to handle high volume data. <span style="float: right; ">2021, Innova Solutions</span>
 
-- Receive a request data which has up to 1 million rows.
-- Parse and validate every row.
-- Request each row to FHIR api
+- Receive a request file in csv/txt(pipe-delimited) which has up to 1 million rows.
+- Parse and validate every row using Spring Batch.
+- Request each row to FHIR api.
 - Retrieve patient document once FHIR published a pipeline end event.
   Spring Boot, Spring batch, ECS, Lambda, S3, SNS, SQS, DynamodDb
 
@@ -69,9 +69,9 @@ Worked in a team of 9 to create an easy-to-use micro-services deployment system
 - When the all micro-services are ready, the designers can decide to enable the workflow, and the Waterflow will deploy all services on Zeebe.
   Bpmn.io, Micronaut, Groovy, React, Elasticsearch, AWS ECR & ECS
 
-**Pocket Realtor** - Better Airbxb? <span style="float: right; ">2020, Master's project of USFCA</span>
+**Pocket Realtor** - Better Airbnb? <span style="float: right; ">2020, Master's project of USFCA</span>
 
-- https://github.com/mchen81/pocket-realtor-backend
+- [Github Link](https://github.com/mchen81/pocket-realtor-backend)
 - Pocket Realtor provides a web service for homeowners, real estate agents, and people seeking to
   make the process of renting housing with friends more seamless.
 - Homeowners will have a page to post the house(s) which they would like to sell or rent.
@@ -83,15 +83,17 @@ NodeJS, Express, Sequelize, JWT, PostgreSQL, AWS EC2 & RDS
 
 **Distributed Storage System** <span style="float: right; ">2020, BigData course from USFCA</span>
 
-- https://github.com/mchen81/DFS-java-netty
+- [Github Link](https://github.com/mchen81/DFS-java-netty)
 - Like [Hadoop Distributed Storage System](https://hadoop.apache.org/), it provides a storage place to keep avalibility for data.
 - Make every chunk of data has 3 replicas distributed around cluster
 - Make a backup if detecting a chunk is broken
 
 Java And Netty
 
-**Buy-Tracker** - A web app tracking what you've payed. <span style="float: right; ">2019</span>  
-When I was first in the US, I tried to write down my spending in some mobile app. It's painful bucause typing lots of items and prices from reciptes didn't make sense. I realized I could write an app to help me achieve that - ocr. Taking a phto then tracking is done - how beautiful it is. Therefore, I built this app and got famaliar with Spring Boot.
+**Buy-Tracker** - A web app tracking what you've payed. <span style="float: right; ">2019</span>
+
+- [Github Link](https://github.com/mchen81/Buy-Tracker)
+  When I was first in the US, I tried to write down my spending in some mobile app. It's painful bucause typing lots of items and prices from reciptes didn't make sense. I realized I could write an app to help me achieve that - ocr. Taking a phto then tracking is done - how beautiful it is. Therefore, I built this app and got famaliar with Spring Boot.
 
 _But it didn't help a lot since I gotta take a really clear image. Even worse, it a web page but not a mobile app._
 
