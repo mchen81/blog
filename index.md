@@ -12,15 +12,14 @@ sitemap:
 	<p></p>
 	<p>My name is Chen, Meng-Ze, you can also call me Jerry. I am a software engineer currently working at Taipei, Taiwan. </p>
 	<p>
-	I got my MSCS diploma from University of San Francisco and Bachelor's degree from National Yunlin University of Science and Technology(雲林科技大學), I've learned various technologies during these years, and, I am still growing.
-	My most expert language is Java, I am able to build a backend web service such as Restful API, Websocket, WEB RTC with Java and its popular frameworks like Spring Boot or Netty.
+	I got my MSCS diploma from University of San Francisco and Bachelor's degree from National Yunlin University of Science and Technology.
 	</p>
     <p>
-    I am a Java lover and I have been working with it for about 4 years, it is also my most expert language. I have accomplished various web servers based on Java and Spring MVC. For example, I made a distributed storage system (like hdfs) by Java and Netty. Another example is I achived process a large amount of data with Spring Batch in current position. In summary, I am comfortable to build up any kind of software by Java.
+    I am a Java lover and I have been working with it for about 4 years, it is also my most expert language. I have accomplished various web servers based on Java and Spring Boot. For example, I made a distributed storage system (like hdfs) by Java and Netty. Another example is I achived process a large amount of data with Spring Batch in current position. In summary, I am comfortable to build up any kind of software by Java.
     </p>
 	<p>
     Not only building Java applications, I am also able to build a fullstack web server by NodeJs with frameworks like NextJs, React.js, Express and Sequelize. Javascript is actually my second most proficient technology.
-    When I was the second grade student in USF, I made a airbnb-like backend server, api endpoints are including [here](https://github.com/mchen81/pocket-realtor-backend/tree/main/server/document).
+    When I was the second grade student in USF, I made a airbnb-like backend server, api endpoints are including <a href="https://github.com/mchen81/pocket-realtor-backend/tree/main/server/document">here</a>. <br/>
     Further more, I am also able to be working on frontend using framework of React.js and NextJs, though I don't draw pictures for UI. In brief, I can make some ui pages with backend server by my own. (I still love Java, though)
     </p>
 	<p>
