@@ -19,7 +19,7 @@ sitemap:
     </p>
 	<p>
     Not only building Java applications, I am also able to build a fullstack web server by NodeJs with frameworks like NextJs, React.js, Express and Sequelize. Javascript is actually my second most proficient technology.
-    When I was the second grade student in USF, I made a airbnb-like backend server, api endpoints are including <a href="https://github.com/mchen81/pocket-realtor-backend/tree/main/server/document">here</a>. <br/>
+    When I was the second grade student in USF, I made a airbnb-like backend server, api endpoints are included <a href="https://github.com/mchen81/pocket-realtor-backend/tree/main/server/document">here</a>. <br/>
     Further more, I am also able to be working on frontend using framework of React.js and NextJs, though I don't draw pictures for UI. In brief, I can make some ui pages with backend server by my own. (I still love Java, though)
     </p>
 	<p>

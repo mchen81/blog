@@ -93,13 +93,13 @@ Java And Netty
 **Buy-Tracker** - A web app tracking what you've payed. <span style="float: right; ">2019</span>
 
 - [Github Link](https://github.com/mchen81/Buy-Tracker)
-  When I was first in the US, I tried to write down my spending in some mobile app. It's painful bucause typing lots of items and prices from reciptes didn't make sense. I realized I could write an app to help me achieve that - ocr. Taking a phto then tracking is done - how beautiful it is. Therefore, I built this app and got famaliar with Spring Boot.
+- When I was first in the US, I tried to write down my spending in some mobile app. It's painful bucause typing lots of items and prices from reciptes didn't make sense. I realized I could write an app to help me achieve that - ocr. Taking a phto then tracking is done - how beautiful it is. Therefore, I built this app and got famaliar with Spring Boot.
 
 _But it didn't help a lot since I gotta take a really clear image. Even worse, it a web page but not a mobile app._
 
 **Security system of open field with cloud computing, drone and robot** - Bachelor's Project <span style="float: right; ">2016, Bachelor's project of YUNTECH</span>
 
-Worked in a team of three to create a security system for large open spaces, such as parks using
-Raspberry Pi, drones and Hadoop.
+- Worked in a team of three to create a security system for large open spaces, such as parks using
+  Raspberry Pi, drones and Hadoop.
 
 _Since this is my first time to complete such big project, the code was really disgusting..._
